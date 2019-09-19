@@ -90,8 +90,8 @@ aside {
   text-align: center;
 }
 
-img{
-    max-width: 100%;
+.item img{
+    width: 1000px;
     height: auto;
 }
 
